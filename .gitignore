@@ -1,4 +1,8 @@
 node_modules
 *lock*
 .env
+<<<<<<< HEAD
 README.md
+=======
+README.md
+>>>>>>> d35605ec41b629d963b5d30410961d91ad5a04b4
